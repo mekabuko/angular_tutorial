@@ -2,7 +2,7 @@
 学習メモ：はじめてのAngular入門
 https://www.udemy.com/course/angular-ja/learn/lecture/23434986
 
-## セクション1-4 導入する VSC 拡張機能（引用）
+## Section 1-4 導入する VSC 拡張機能（引用）
 ### Angular Essentials (Version 9)
 Angular向けの拡張機能がセットになったもの。
 Editor Config（コードの書式設定ファイル）やAngular用コードスニペット、コードの入力補完やファイルのパス補完などを有効化します。
@@ -19,3 +19,9 @@ https://marketplace.visualstudio.com/items?itemName=jakethashi.vscode-angular2-e
 ### Typescript Importer
 TypeScriptファイルの自動インポート機能を補完します。
 https://marketplace.visualstudio.com/items?itemName=pmneo.tsimporter
+
+## Section 2-7 初期化
+```
+ng new hello-world
+```
+
